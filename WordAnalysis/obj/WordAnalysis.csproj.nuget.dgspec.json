@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\WordAnalysis.csproj": {}
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\WordAnalysis\\WordAnalysis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\WordAnalysis.csproj": {
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\WordAnalysis\\WordAnalysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\WordAnalysis.csproj",
+        "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\WordAnalysis\\WordAnalysis.csproj",
         "projectName": "WordAnalysis",
-        "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\WordAnalysis.csproj",
+        "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\WordAnalysis\\WordAnalysis.csproj",
         "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\obj\\",
+        "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\WordAnalysis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

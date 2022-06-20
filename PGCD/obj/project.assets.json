@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\PGCD\\PGCD.csproj",
+      "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\PGCD\\PGCD.csproj",
       "projectName": "PGCD",
-      "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\PGCD\\PGCD.csproj",
+      "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\PGCD\\PGCD.csproj",
       "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\PGCD\\obj\\",
+      "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\PGCD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

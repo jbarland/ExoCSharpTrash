@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\QuizCapital\\QuizCapitales.csproj": {}
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\QuizCapital\\QuizCapitales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\QuizCapital\\QuizCapitales.csproj": {
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\QuizCapital\\QuizCapitales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\QuizCapital\\QuizCapitales.csproj",
+        "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\QuizCapital\\QuizCapitales.csproj",
         "projectName": "QuizCapitales",
-        "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\QuizCapital\\QuizCapitales.csproj",
+        "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\QuizCapital\\QuizCapitales.csproj",
         "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\QuizCapital\\obj\\",
+        "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\QuizCapital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

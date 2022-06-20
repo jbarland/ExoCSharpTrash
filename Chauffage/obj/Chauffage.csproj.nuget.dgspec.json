@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Chauffage\\Chauffage.csproj": {}
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Chauffage\\Chauffage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Chauffage\\Chauffage.csproj": {
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Chauffage\\Chauffage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Chauffage\\Chauffage.csproj",
+        "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Chauffage\\Chauffage.csproj",
         "projectName": "Chauffage",
-        "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Chauffage\\Chauffage.csproj",
+        "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Chauffage\\Chauffage.csproj",
         "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Chauffage\\obj\\",
+        "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Chauffage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

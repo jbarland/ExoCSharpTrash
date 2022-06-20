@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\Bases.csproj": {}
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Bases\\Bases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\Bases.csproj": {
+    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Bases\\Bases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\Bases.csproj",
+        "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Bases\\Bases.csproj",
         "projectName": "Bases",
-        "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\Bases.csproj",
+        "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Bases\\Bases.csproj",
         "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\obj\\",
+        "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\git\\exCharpTrash\\Bases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",
