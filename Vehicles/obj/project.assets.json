@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Vehicles\\Vehicles.csproj",
+      "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Vehicles\\Vehicles.csproj",
       "projectName": "Vehicles",
-      "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Vehicles\\Vehicles.csproj",
+      "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Vehicles\\Vehicles.csproj",
       "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Vehicles\\obj\\",
+      "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Vehicles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Bases\\Bases.csproj",
+      "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\Bases.csproj",
       "projectName": "Bases",
-      "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Bases\\Bases.csproj",
+      "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\Bases.csproj",
       "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Bases\\obj\\",
+      "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Bases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

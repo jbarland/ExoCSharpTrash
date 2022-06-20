@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\WordAnalysis\\WordAnalysis.csproj",
+      "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\WordAnalysis.csproj",
       "projectName": "WordAnalysis",
-      "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\WordAnalysis\\WordAnalysis.csproj",
+      "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\WordAnalysis.csproj",
       "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\WordAnalysis\\obj\\",
+      "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\WordAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

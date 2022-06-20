@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eGbhbAO9958BHiM/fYJ8ltNHKAVxxXtA0YBEMqGKVWgPuYzLhjBJvv/Rzak03MqBuBuqtRTZSSklMP+RtP6OiQ==",
+  "dgSpecHash": "vsbep7Lo8GqpSb2rLDYZxiDyAm1oGHLXjZJVpDqvU1O5OihVbLIoWS9KCHrS2xHfEkzxNL3VS+9ZwL8kZ/KYZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\CreationCompte\\CreationCompte.csproj",
+  "projectFilePath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\CreationCompte\\CreationCompte.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HB\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
     "C:\\Users\\HB\\.nuget\\packages\\sqlitepclraw.bundle_winsqlite3\\2.1.0\\sqlitepclraw.bundle_winsqlite3.2.1.0.nupkg.sha512",

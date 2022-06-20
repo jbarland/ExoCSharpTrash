@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Boxes\\Boxes.csproj",
+      "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Boxes\\Boxes.csproj",
       "projectName": "Boxes",
-      "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Boxes\\Boxes.csproj",
+      "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Boxes\\Boxes.csproj",
       "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Boxes\\obj\\",
+      "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\Boxes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

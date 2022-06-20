@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\JeuPendu\\JeuPendu.csproj",
+      "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\JeuPendu\\JeuPendu.csproj",
       "projectName": "JeuPendu",
-      "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\JeuPendu\\JeuPendu.csproj",
+      "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\JeuPendu\\JeuPendu.csproj",
       "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\JeuPendu\\obj\\",
+      "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\JeuPendu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",

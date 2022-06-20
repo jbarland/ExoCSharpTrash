@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\DrinkDispenser\\DrinkDispenser.csproj": {}
+    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\DrinkDispenser\\DrinkDispenser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\DrinkDispenser\\DrinkDispenser.csproj": {
+    "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\DrinkDispenser\\DrinkDispenser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\DrinkDispenser\\DrinkDispenser.csproj",
+        "projectUniqueName": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\DrinkDispenser\\DrinkDispenser.csproj",
         "projectName": "DrinkDispenser",
-        "projectPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\DrinkDispenser\\DrinkDispenser.csproj",
+        "projectPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\DrinkDispenser\\DrinkDispenser.csproj",
         "packagesPath": "C:\\Users\\HB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\DrinkDispenser\\obj\\",
+        "outputPath": "C:\\Users\\HB\\Documents\\Methodo\\ExosCsharp\\DrinkDispenser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HB\\AppData\\Roaming\\NuGet\\NuGet.Config",
