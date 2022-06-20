@@ -1,10 +1,10 @@
 ﻿# Développeur junior
 
-**JÉRÉMY BARLAND**
+**Dominique Portello**
 
 *05 mars 1987*
 
-[Lien vers mon github](https://github.com/jrmbrld)
+[Lien vers mon github](https://github.com/DomPortello)
 
 ## stagiaire en développement web
 
