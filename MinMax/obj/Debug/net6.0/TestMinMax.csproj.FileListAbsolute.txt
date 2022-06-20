@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\TestMinMax.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\TestMinMax.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\TestMinMax.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\TestMinMax.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\TestMinMax.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\refint\TestMinMax.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\TestMinMax.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\ref\TestMinMax.dll

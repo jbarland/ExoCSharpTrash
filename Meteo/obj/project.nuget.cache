@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bd65sHFw7kZv3ktPJMUO0thzuKaTsZHEv8Yl0IsUkz2gTR9AMpIidBWnprCHYN1v0bRQuo5l930D1/O5SF23LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\Meteo\\Meteo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HB\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\HB\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\HB\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

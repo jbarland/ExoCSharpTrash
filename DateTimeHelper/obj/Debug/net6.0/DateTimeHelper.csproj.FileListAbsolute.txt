@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\bin\Debug\net6.0\DateTimeHelper.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\bin\Debug\net6.0\DateTimeHelper.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\bin\Debug\net6.0\DateTimeHelper.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\bin\Debug\net6.0\DateTimeHelper.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\bin\Debug\net6.0\DateTimeHelper.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\refint\DateTimeHelper.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\DateTimeHelper.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DateTimeHelper\obj\Debug\net6.0\ref\DateTimeHelper.dll

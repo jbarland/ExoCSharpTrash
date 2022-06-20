@@ -1,0 +1,926 @@
+[
+  {
+    "Month": "2007-01-31T00:00:00",
+    "MinTemp": 6.2,
+    "MaxTemp": 10.2,
+    "Precipitations": 28,
+    "Sunshine": 46
+  },
+  {
+    "Month": "2007-02-28T00:00:00",
+    "MinTemp": 6.2,
+    "MaxTemp": 11.6,
+    "Precipitations": 79.2,
+    "Sunshine": 76.4
+  },
+  {
+    "Month": "2007-03-31T00:00:00",
+    "MinTemp": 5.4,
+    "MaxTemp": 12.3,
+    "Precipitations": 41.4,
+    "Sunshine": 145.6
+  },
+  {
+    "Month": "2007-04-30T00:00:00",
+    "MinTemp": 10.5,
+    "MaxTemp": 21.7,
+    "Precipitations": 5.2,
+    "Sunshine": 312.4
+  },
+  {
+    "Month": "2007-05-31T00:00:00",
+    "MinTemp": 12,
+    "MaxTemp": 20.4,
+    "Precipitations": 102.4,
+    "Sunshine": 153.5
+  },
+  {
+    "Month": "2007-06-30T00:00:00",
+    "MinTemp": 14.7,
+    "MaxTemp": 23,
+    "Precipitations": 52.6,
+    "Sunshine": 146
+  },
+  {
+    "Month": "2007-07-31T00:00:00",
+    "MinTemp": 14.9,
+    "MaxTemp": 23.4,
+    "Precipitations": 73.5,
+    "Sunshine": 177.6
+  },
+  {
+    "Month": "2007-08-31T00:00:00",
+    "MinTemp": 14.5,
+    "MaxTemp": 22.4,
+    "Precipitations": 159.2,
+    "Sunshine": 160.5
+  },
+  {
+    "Month": "2007-09-30T00:00:00",
+    "MinTemp": 12,
+    "MaxTemp": 19.9,
+    "Precipitations": 18.4,
+    "Sunshine": 155.8
+  },
+  {
+    "Month": "2007-10-31T00:00:00",
+    "MinTemp": 9.2,
+    "MaxTemp": 15.4,
+    "Precipitations": 42,
+    "Sunshine": 141
+  },
+  {
+    "Month": "2007-11-30T00:00:00",
+    "MinTemp": 5.5,
+    "MaxTemp": 10.4,
+    "Precipitations": 28.6,
+    "Sunshine": 100.2
+  },
+  {
+    "Month": "2007-12-31T00:00:00",
+    "MinTemp": 2.9,
+    "MaxTemp": 7.3,
+    "Precipitations": 59.8,
+    "Sunshine": 99.2
+  },
+  {
+    "Month": "2008-01-31T00:00:00",
+    "MinTemp": 4.9,
+    "MaxTemp": 9.6,
+    "Precipitations": 49.2,
+    "Sunshine": 57.8
+  },
+  {
+    "Month": "2008-02-29T00:00:00",
+    "MinTemp": 4.1,
+    "MaxTemp": 10.9,
+    "Precipitations": 32.4,
+    "Sunshine": 137.7
+  },
+  {
+    "Month": "2008-03-31T00:00:00",
+    "MinTemp": 5.1,
+    "MaxTemp": 10.9,
+    "Precipitations": 76.2,
+    "Sunshine": 84.9
+  },
+  {
+    "Month": "2008-04-30T00:00:00",
+    "MinTemp": 6.8,
+    "MaxTemp": 14.9,
+    "Precipitations": 51.4,
+    "Sunshine": 131.2
+  },
+  {
+    "Month": "2008-05-31T00:00:00",
+    "MinTemp": 13.3,
+    "MaxTemp": 22.4,
+    "Precipitations": 66.6,
+    "Sunshine": 199.8
+  },
+  {
+    "Month": "2008-06-30T00:00:00",
+    "MinTemp": 14.3,
+    "MaxTemp": 22.7,
+    "Precipitations": 14.8,
+    "Sunshine": 151.5
+  },
+  {
+    "Month": "2008-07-31T00:00:00",
+    "MinTemp": 15.4,
+    "MaxTemp": 25.2,
+    "Precipitations": 40,
+    "Sunshine": 213
+  },
+  {
+    "Month": "2008-08-31T00:00:00",
+    "MinTemp": 15.4,
+    "MaxTemp": 23.6,
+    "Precipitations": 94.6,
+    "Sunshine": 143.2
+  },
+  {
+    "Month": "2008-09-30T00:00:00",
+    "MinTemp": 11.3,
+    "MaxTemp": 19.8,
+    "Precipitations": 16.6,
+    "Sunshine": 184.1
+  },
+  {
+    "Month": "2008-10-31T00:00:00",
+    "MinTemp": 8.6,
+    "MaxTemp": 15.2,
+    "Precipitations": 61.1,
+    "Sunshine": 120.1
+  },
+  {
+    "Month": "2008-11-30T00:00:00",
+    "MinTemp": 6,
+    "MaxTemp": 10.6,
+    "Precipitations": 50.2,
+    "Sunshine": 44.5
+  },
+  {
+    "Month": "2008-12-31T00:00:00",
+    "MinTemp": 2.1,
+    "MaxTemp": 5.8,
+    "Precipitations": 29.4,
+    "Sunshine": 49.8
+  },
+  {
+    "Month": "2009-01-31T00:00:00",
+    "MinTemp": -0.2,
+    "MaxTemp": 4.8,
+    "Precipitations": 46.2,
+    "Sunshine": 78.7
+  },
+  {
+    "Month": "2009-02-28T00:00:00",
+    "MinTemp": 2.2,
+    "MaxTemp": 7.7,
+    "Precipitations": 38,
+    "Sunshine": 66.6
+  },
+  {
+    "Month": "2009-03-31T00:00:00",
+    "MinTemp": 4.8,
+    "MaxTemp": 12.3,
+    "Precipitations": 31,
+    "Sunshine": 161.1
+  },
+  {
+    "Month": "2009-04-30T00:00:00",
+    "MinTemp": 9.2,
+    "MaxTemp": 17.8,
+    "Precipitations": 42,
+    "Sunshine": 162
+  },
+  {
+    "Month": "2009-05-31T00:00:00",
+    "MinTemp": 11.4,
+    "MaxTemp": 20.1,
+    "Precipitations": 70.6,
+    "Sunshine": 163
+  },
+  {
+    "Month": "2009-06-30T00:00:00",
+    "MinTemp": 13.6,
+    "MaxTemp": 22.7,
+    "Precipitations": 57,
+    "Sunshine": 222.3
+  },
+  {
+    "Month": "2009-07-31T00:00:00",
+    "MinTemp": 15.9,
+    "MaxTemp": 25.5,
+    "Precipitations": 42.2,
+    "Sunshine": 193.4
+  },
+  {
+    "Month": "2009-08-31T00:00:00",
+    "MinTemp": 16.4,
+    "MaxTemp": 27.1,
+    "Precipitations": 13,
+    "Sunshine": 241.6
+  },
+  {
+    "Month": "2009-09-30T00:00:00",
+    "MinTemp": 13.4,
+    "MaxTemp": 21.8,
+    "Precipitations": 24.2,
+    "Sunshine": 181.8
+  },
+  {
+    "Month": "2009-10-31T00:00:00",
+    "MinTemp": 9.9,
+    "MaxTemp": 16.8,
+    "Precipitations": 47,
+    "Sunshine": 113.3
+  },
+  {
+    "Month": "2009-11-30T00:00:00",
+    "MinTemp": 8.1,
+    "MaxTemp": 12.9,
+    "Precipitations": 74,
+    "Sunshine": 45.7
+  },
+  {
+    "Month": "2009-12-31T00:00:00",
+    "MinTemp": 2.4,
+    "MaxTemp": 7.1,
+    "Precipitations": 71.4,
+    "Sunshine": 52.1
+  },
+  {
+    "Month": "2010-01-31T00:00:00",
+    "MinTemp": 0,
+    "MaxTemp": 3.8,
+    "Precipitations": 28.4,
+    "Sunshine": 46.9
+  },
+  {
+    "Month": "2010-02-28T00:00:00",
+    "MinTemp": 2.2,
+    "MaxTemp": 7.3,
+    "Precipitations": 53.6,
+    "Sunshine": 51.7
+  },
+  {
+    "Month": "2010-03-31T00:00:00",
+    "MinTemp": 4.8,
+    "MaxTemp": 12.2,
+    "Precipitations": 44,
+    "Sunshine": 170.1
+  },
+  {
+    "Month": "2010-04-30T00:00:00",
+    "MinTemp": 7.5,
+    "MaxTemp": 17.7,
+    "Precipitations": 13.8,
+    "Sunshine": 240.8
+  },
+  {
+    "Month": "2010-05-31T00:00:00",
+    "MinTemp": 9.9,
+    "MaxTemp": 18.1,
+    "Precipitations": 50.1,
+    "Sunshine": 168.5
+  },
+  {
+    "Month": "2010-06-30T00:00:00",
+    "MinTemp": 14.7,
+    "MaxTemp": 24.1,
+    "Precipitations": 42.9,
+    "Sunshine": 203
+  },
+  {
+    "Month": "2010-07-31T00:00:00",
+    "MinTemp": 17.5,
+    "MaxTemp": 27.2,
+    "Precipitations": 95.9,
+    "Sunshine": 224
+  },
+  {
+    "Month": "2010-08-31T00:00:00",
+    "MinTemp": 15.4,
+    "MaxTemp": 23.7,
+    "Precipitations": 82.8,
+    "Sunshine": 158
+  },
+  {
+    "Month": "2010-09-30T00:00:00",
+    "MinTemp": 12.2,
+    "MaxTemp": 20.9,
+    "Precipitations": 59.1,
+    "Sunshine": 193.5
+  },
+  {
+    "Month": "2010-10-31T00:00:00",
+    "MinTemp": 9,
+    "MaxTemp": 16.2,
+    "Precipitations": 31.2,
+    "Sunshine": 150.3
+  },
+  {
+    "Month": "2010-11-30T00:00:00",
+    "MinTemp": 5.7,
+    "MaxTemp": 9.7,
+    "Precipitations": 71.3,
+    "Sunshine": 34.4
+  },
+  {
+    "Month": "2010-12-31T00:00:00",
+    "MinTemp": -0.2,
+    "MaxTemp": 3.1,
+    "Precipitations": 64.3,
+    "Sunshine": 37.7
+  },
+  {
+    "Month": "2011-01-31T00:00:00",
+    "MinTemp": 3.4,
+    "MaxTemp": 7.3,
+    "Precipitations": 52.5,
+    "Sunshine": 39.3
+  },
+  {
+    "Month": "2011-02-28T00:00:00",
+    "MinTemp": 4.6,
+    "MaxTemp": 9.6,
+    "Precipitations": 29.8,
+    "Sunshine": 38.3
+  },
+  {
+    "Month": "2011-03-31T00:00:00",
+    "MinTemp": 6.1,
+    "MaxTemp": 14.3,
+    "Precipitations": 17,
+    "Sunshine": 179.5
+  },
+  {
+    "Month": "2011-04-30T00:00:00",
+    "MinTemp": 10.7,
+    "MaxTemp": 20.9,
+    "Precipitations": 9,
+    "Sunshine": 241.8
+  },
+  {
+    "Month": "2011-05-31T00:00:00",
+    "MinTemp": 11.9,
+    "MaxTemp": 22.7,
+    "Precipitations": 2,
+    "Sunshine": 280.8
+  },
+  {
+    "Month": "2011-06-30T00:00:00",
+    "MinTemp": 14.3,
+    "MaxTemp": 23.3,
+    "Precipitations": 77.2,
+    "Sunshine": 158
+  },
+  {
+    "Month": "2011-07-31T00:00:00",
+    "MinTemp": 14.1,
+    "MaxTemp": 22.9,
+    "Precipitations": 64.6,
+    "Sunshine": 155
+  },
+  {
+    "Month": "2011-08-31T00:00:00",
+    "MinTemp": 15.5,
+    "MaxTemp": 24.5,
+    "Precipitations": 82.6,
+    "Sunshine": 186.8
+  },
+  {
+    "Month": "2011-09-30T00:00:00",
+    "MinTemp": 14.3,
+    "MaxTemp": 23.5,
+    "Precipitations": 32.3,
+    "Sunshine": 180.7
+  },
+  {
+    "Month": "2011-10-31T00:00:00",
+    "MinTemp": 10.6,
+    "MaxTemp": 17.9,
+    "Precipitations": 30.1,
+    "Sunshine": 142.2
+  },
+  {
+    "Month": "2011-11-30T00:00:00",
+    "MinTemp": 7.7,
+    "MaxTemp": 13.1,
+    "Precipitations": 32.3,
+    "Sunshine": 78.9
+  },
+  {
+    "Month": "2011-12-31T00:00:00",
+    "MinTemp": 5.4,
+    "MaxTemp": 10.4,
+    "Precipitations": 96.2,
+    "Sunshine": 57.5
+  },
+  {
+    "Month": "2012-01-31T00:00:00",
+    "MinTemp": 4.9,
+    "MaxTemp": 9.4,
+    "Precipitations": 24,
+    "Sunshine": 63.3
+  },
+  {
+    "Month": "2012-02-29T00:00:00",
+    "MinTemp": 0.1,
+    "MaxTemp": 5.8,
+    "Precipitations": 4.8,
+    "Sunshine": 116.6
+  },
+  {
+    "Month": "2012-03-31T00:00:00",
+    "MinTemp": 7.3,
+    "MaxTemp": 15.7,
+    "Precipitations": 12,
+    "Sunshine": 194
+  },
+  {
+    "Month": "2012-04-30T00:00:00",
+    "MinTemp": 6.4,
+    "MaxTemp": 14.2,
+    "Precipitations": 63.6,
+    "Sunshine": 133.9
+  },
+  {
+    "Month": "2012-05-31T00:00:00",
+    "MinTemp": 11.7,
+    "MaxTemp": 20.8,
+    "Precipitations": 67.3,
+    "Sunshine": 212.5
+  },
+  {
+    "Month": "2012-06-30T00:00:00",
+    "MinTemp": 13.6,
+    "MaxTemp": 21.8,
+    "Precipitations": 99.5,
+    "Sunshine": 145.9
+  },
+  {
+    "Month": "2012-07-31T00:00:00",
+    "MinTemp": 15.1,
+    "MaxTemp": 24,
+    "Precipitations": 70.9,
+    "Sunshine": 210.4
+  },
+  {
+    "Month": "2012-08-31T00:00:00",
+    "MinTemp": 16.2,
+    "MaxTemp": 27.2,
+    "Precipitations": 6,
+    "Sunshine": 249.5
+  },
+  {
+    "Month": "2012-09-30T00:00:00",
+    "MinTemp": 12.3,
+    "MaxTemp": 21.2,
+    "Precipitations": 47.5,
+    "Sunshine": 183.7
+  },
+  {
+    "Month": "2012-10-31T00:00:00",
+    "MinTemp": 10.1,
+    "MaxTemp": 16,
+    "Precipitations": 86.7,
+    "Sunshine": 101.8
+  },
+  {
+    "Month": "2012-11-30T00:00:00",
+    "MinTemp": 6,
+    "MaxTemp": 10.3,
+    "Precipitations": 43.8,
+    "Sunshine": 38.2
+  },
+  {
+    "Month": "2012-12-31T00:00:00",
+    "MinTemp": 4.6,
+    "MaxTemp": 9.1,
+    "Precipitations": 96.4,
+    "Sunshine": 52.1
+  },
+  {
+    "Month": "2013-01-31T00:00:00",
+    "MinTemp": 2.4,
+    "MaxTemp": 5.9,
+    "Precipitations": 42.2,
+    "Sunshine": 33.3
+  },
+  {
+    "Month": "2013-02-28T00:00:00",
+    "MinTemp": 1.3,
+    "MaxTemp": 6,
+    "Precipitations": 37.4,
+    "Sunshine": 64.6
+  },
+  {
+    "Month": "2013-03-31T00:00:00",
+    "MinTemp": 3,
+    "MaxTemp": 8.7,
+    "Precipitations": 36.6,
+    "Sunshine": 98.7
+  },
+  {
+    "Month": "2013-04-30T00:00:00",
+    "MinTemp": 6.9,
+    "MaxTemp": 15.4,
+    "Precipitations": 29.7,
+    "Sunshine": 169.4
+  },
+  {
+    "Month": "2013-05-31T00:00:00",
+    "MinTemp": 9.1,
+    "MaxTemp": 16.7,
+    "Precipitations": 111.2,
+    "Sunshine": 114.6
+  },
+  {
+    "Month": "2013-06-30T00:00:00",
+    "MinTemp": 13.1,
+    "MaxTemp": 21.9,
+    "Precipitations": 64,
+    "Sunshine": 188.8
+  },
+  {
+    "Month": "2013-07-31T00:00:00",
+    "MinTemp": 17.5,
+    "MaxTemp": 28.3,
+    "Precipitations": 47.8,
+    "Sunshine": 306.4
+  },
+  {
+    "Month": "2013-08-31T00:00:00",
+    "MinTemp": 15.8,
+    "MaxTemp": 25.7,
+    "Precipitations": 37.6,
+    "Sunshine": 252.7
+  },
+  {
+    "Month": "2013-09-30T00:00:00",
+    "MinTemp": 13.6,
+    "MaxTemp": 21.5,
+    "Precipitations": 49.5,
+    "Sunshine": 154.2
+  },
+  {
+    "Month": "2013-10-31T00:00:00",
+    "MinTemp": 11.7,
+    "MaxTemp": 17.8,
+    "Precipitations": 43.4,
+    "Sunshine": 96.5
+  },
+  {
+    "Month": "2013-11-30T00:00:00",
+    "MinTemp": 5.7,
+    "MaxTemp": 10,
+    "Precipitations": 69.7,
+    "Sunshine": 43.7
+  },
+  {
+    "Month": "2013-12-31T00:00:00",
+    "MinTemp": 4.1,
+    "MaxTemp": 9.4,
+    "Precipitations": 47.2,
+    "Sunshine": 112.6
+  },
+  {
+    "Month": "2014-01-31T00:00:00",
+    "MinTemp": 5.3,
+    "MaxTemp": 9.7,
+    "Precipitations": 55.4,
+    "Sunshine": 42.5
+  },
+  {
+    "Month": "2014-02-28T00:00:00",
+    "MinTemp": 5.1,
+    "MaxTemp": 10.8,
+    "Precipitations": 54,
+    "Sunshine": 81.3
+  },
+  {
+    "Month": "2014-03-31T00:00:00",
+    "MinTemp": 6.2,
+    "MaxTemp": 15.4,
+    "Precipitations": 12.4,
+    "Sunshine": 203
+  },
+  {
+    "Month": "2014-04-30T00:00:00",
+    "MinTemp": 9.1,
+    "MaxTemp": 17.9,
+    "Precipitations": 43,
+    "Sunshine": 179.4
+  },
+  {
+    "Month": "2014-05-31T00:00:00",
+    "MinTemp": 10.5,
+    "MaxTemp": 19.2,
+    "Precipitations": 87.9,
+    "Sunshine": 206.8
+  },
+  {
+    "Month": "2014-06-30T00:00:00",
+    "MinTemp": 14.1,
+    "MaxTemp": 23.4,
+    "Precipitations": 86,
+    "Sunshine": 252.5
+  },
+  {
+    "Month": "2014-07-31T00:00:00",
+    "MinTemp": 16.5,
+    "MaxTemp": 25.4,
+    "Precipitations": 98.2,
+    "Sunshine": 191.1
+  },
+  {
+    "Month": "2014-08-31T00:00:00",
+    "MinTemp": 14.4,
+    "MaxTemp": 22.7,
+    "Precipitations": 107.3,
+    "Sunshine": 162.3
+  },
+  {
+    "Month": "2014-09-30T00:00:00",
+    "MinTemp": 14.3,
+    "MaxTemp": 23.7,
+    "Precipitations": 8.2,
+    "Sunshine": 226.6
+  },
+  {
+    "Month": "2014-10-31T00:00:00",
+    "MinTemp": 11.9,
+    "MaxTemp": 18.6,
+    "Precipitations": 48.7,
+    "Sunshine": 115.7
+  },
+  {
+    "Month": "2014-11-30T00:00:00",
+    "MinTemp": 8.2,
+    "MaxTemp": 13,
+    "Precipitations": 54.3,
+    "Sunshine": 73.6
+  },
+  {
+    "Month": "2014-12-31T00:00:00",
+    "MinTemp": 4.4,
+    "MaxTemp": 7.9,
+    "Precipitations": 60.8,
+    "Sunshine": 41.5
+  },
+  {
+    "Month": "2015-01-31T00:00:00",
+    "MinTemp": 2.9,
+    "MaxTemp": 7.8,
+    "Precipitations": 36.6,
+    "Sunshine": 48.4
+  },
+  {
+    "Month": "2015-02-28T00:00:00",
+    "MinTemp": 2.3,
+    "MaxTemp": 7.6,
+    "Precipitations": 43.4,
+    "Sunshine": 99.7
+  },
+  {
+    "Month": "2015-03-31T00:00:00",
+    "MinTemp": 5.4,
+    "MaxTemp": 12.9,
+    "Precipitations": 28.3,
+    "Sunshine": 143
+  },
+  {
+    "Month": "2015-04-30T00:00:00",
+    "MinTemp": 8.5,
+    "MaxTemp": 18.3,
+    "Precipitations": 56.2,
+    "Sunshine": 239.4
+  },
+  {
+    "Month": "2015-05-31T00:00:00",
+    "MinTemp": 10.7,
+    "MaxTemp": 19.6,
+    "Precipitations": 44.1,
+    "Sunshine": 200.8
+  },
+  {
+    "Month": "2015-06-30T00:00:00",
+    "MinTemp": 14.1,
+    "MaxTemp": 25.2,
+    "Precipitations": 7,
+    "Sunshine": 303.7
+  },
+  {
+    "Month": "2015-07-31T00:00:00",
+    "MinTemp": 17.1,
+    "MaxTemp": 27.4,
+    "Precipitations": 19.9,
+    "Sunshine": 242.6
+  },
+  {
+    "Month": "2015-08-31T00:00:00",
+    "MinTemp": 16.6,
+    "MaxTemp": 26.9,
+    "Precipitations": 80.3,
+    "Sunshine": 212.4
+  },
+  {
+    "Month": "2015-09-30T00:00:00",
+    "MinTemp": 11.7,
+    "MaxTemp": 19.6,
+    "Precipitations": 72.2,
+    "Sunshine": 181
+  },
+  {
+    "Month": "2015-10-31T00:00:00",
+    "MinTemp": 9.1,
+    "MaxTemp": 15.5,
+    "Precipitations": 42.6,
+    "Sunshine": 109.7
+  },
+  {
+    "Month": "2015-11-30T00:00:00",
+    "MinTemp": 9,
+    "MaxTemp": 14,
+    "Precipitations": 54.3,
+    "Sunshine": 80.6
+  },
+  {
+    "Month": "2015-12-31T00:00:00",
+    "MinTemp": 7.7,
+    "MaxTemp": 12.3,
+    "Precipitations": 21.6,
+    "Sunshine": 90.8
+  },
+  {
+    "Month": "2016-01-31T00:00:00",
+    "MinTemp": 4,
+    "MaxTemp": 8.5,
+    "Precipitations": 49.6,
+    "Sunshine": 52.8
+  },
+  {
+    "Month": "2016-02-29T00:00:00",
+    "MinTemp": 4.2,
+    "MaxTemp": 9.6,
+    "Precipitations": 49.7,
+    "Sunshine": 90.2
+  },
+  {
+    "Month": "2016-03-31T00:00:00",
+    "MinTemp": 4.5,
+    "MaxTemp": 10.8,
+    "Precipitations": 92.1,
+    "Sunshine": 120.8
+  },
+  {
+    "Month": "2016-04-30T00:00:00",
+    "MinTemp": 6.9,
+    "MaxTemp": 15,
+    "Precipitations": 39.5,
+    "Sunshine": 156.1
+  },
+  {
+    "Month": "2016-05-31T00:00:00",
+    "MinTemp": 11.3,
+    "MaxTemp": 19.6,
+    "Precipitations": 178.6,
+    "Sunshine": 160.4
+  },
+  {
+    "Month": "2016-06-30T00:00:00",
+    "MinTemp": 14.7,
+    "MaxTemp": 21.9,
+    "Precipitations": 51.7,
+    "Sunshine": 119.9
+  },
+  {
+    "Month": "2016-07-31T00:00:00",
+    "MinTemp": 16.6,
+    "MaxTemp": 25.8,
+    "Precipitations": 15.5,
+    "Sunshine": 240.7
+  },
+  {
+    "Month": "2016-08-31T00:00:00",
+    "MinTemp": 16.5,
+    "MaxTemp": 27.1,
+    "Precipitations": 17.6,
+    "Sunshine": 266.5
+  },
+  {
+    "Month": "2016-09-30T00:00:00",
+    "MinTemp": 15.2,
+    "MaxTemp": 23.9,
+    "Precipitations": 37,
+    "Sunshine": 169.5
+  },
+  {
+    "Month": "2016-10-31T00:00:00",
+    "MinTemp": 8.8,
+    "MaxTemp": 15.8,
+    "Precipitations": 32.7,
+    "Sunshine": 152.5
+  },
+  {
+    "Month": "2016-11-30T00:00:00",
+    "MinTemp": 6.2,
+    "MaxTemp": 10.7,
+    "Precipitations": 70.4,
+    "Sunshine": 84.1
+  },
+  {
+    "Month": "2016-12-31T00:00:00",
+    "MinTemp": 2.8,
+    "MaxTemp": 8,
+    "Precipitations": 23.4,
+    "Sunshine": 112.1
+  },
+  {
+    "Month": "2017-01-31T00:00:00",
+    "MinTemp": 0.6,
+    "MaxTemp": 5.3,
+    "Precipitations": 26.7,
+    "Sunshine": 82
+  },
+  {
+    "Month": "2017-02-28T00:00:00",
+    "MinTemp": 5.4,
+    "MaxTemp": 10.7,
+    "Precipitations": 41,
+    "Sunshine": 68.3
+  },
+  {
+    "Month": "2017-03-31T00:00:00",
+    "MinTemp": 7.6,
+    "MaxTemp": 15.1,
+    "Precipitations": 72.9,
+    "Sunshine": 126.5
+  },
+  {
+    "Month": "2017-04-30T00:00:00",
+    "MinTemp": 7.2,
+    "MaxTemp": 16.7,
+    "Precipitations": 17.9,
+    "Sunshine": 220.1
+  },
+  {
+    "Month": "2017-05-31T00:00:00",
+    "MinTemp": 12.2,
+    "MaxTemp": 22,
+    "Precipitations": 74.5,
+    "Sunshine": 217
+  },
+  {
+    "Month": "2017-06-30T00:00:00",
+    "MinTemp": 16.3,
+    "MaxTemp": 26.5,
+    "Precipitations": 50.9,
+    "Sunshine": 128.2
+  },
+  {
+    "Month": "2017-07-31T00:00:00",
+    "MinTemp": 16.8,
+    "MaxTemp": 26.2,
+    "Precipitations": 100.4,
+    "Sunshine": 198.2
+  },
+  {
+    "Month": "2017-08-31T00:00:00",
+    "MinTemp": 15.6,
+    "MaxTemp": 25.2,
+    "Precipitations": 71.1,
+    "Sunshine": 177.9
+  },
+  {
+    "Month": "2017-09-30T00:00:00",
+    "MinTemp": 12.2,
+    "MaxTemp": 20.2,
+    "Precipitations": 102.9,
+    "Sunshine": 142.5
+  },
+  {
+    "Month": "2017-10-31T00:00:00",
+    "MinTemp": 11.5,
+    "MaxTemp": 18.3,
+    "Precipitations": 30.6,
+    "Sunshine": 135
+  },
+  {
+    "Month": "2017-11-30T00:00:00",
+    "MinTemp": 6.1,
+    "MaxTemp": 11.1,
+    "Precipitations": 54.9,
+    "Sunshine": 74.3
+  },
+  {
+    "Month": "2017-12-31T00:00:00",
+    "MinTemp": 3.8,
+    "MaxTemp": 8.4,
+    "Precipitations": 95.3,
+    "Sunshine": 39.7
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\MinMax.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\MinMax.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\MinMax.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\MinMax.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\bin\Debug\net6.0\MinMax.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\refint\MinMax.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\MinMax.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\MinMax\obj\Debug\net6.0\ref\MinMax.dll

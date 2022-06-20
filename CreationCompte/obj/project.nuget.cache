@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGbhbAO9958BHiM/fYJ8ltNHKAVxxXtA0YBEMqGKVWgPuYzLhjBJvv/Rzak03MqBuBuqtRTZSSklMP+RtP6OiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HB\\Documents\\Jérémy\\POEI\\C#\\ExercicesCSharp\\CreationCompte\\CreationCompte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HB\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
+    "C:\\Users\\HB\\.nuget\\packages\\sqlitepclraw.bundle_winsqlite3\\2.1.0\\sqlitepclraw.bundle_winsqlite3.2.1.0.nupkg.sha512",
+    "C:\\Users\\HB\\.nuget\\packages\\sqlitepclraw.core\\2.1.0\\sqlitepclraw.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\HB\\.nuget\\packages\\sqlitepclraw.provider.winsqlite3\\2.1.0\\sqlitepclraw.provider.winsqlite3.2.1.0.nupkg.sha512",
+    "C:\\Users\\HB\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

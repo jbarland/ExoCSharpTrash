@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\bin\Debug\net6.0\WordAnalysis.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\bin\Debug\net6.0\WordAnalysis.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\bin\Debug\net6.0\WordAnalysis.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\bin\Debug\net6.0\WordAnalysis.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\bin\Debug\net6.0\WordAnalysis.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\refint\WordAnalysis.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\WordAnalysis.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\WordAnalysis\obj\Debug\net6.0\ref\WordAnalysis.dll

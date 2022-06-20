@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\bin\Debug\net6.0\BasesPOO.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\bin\Debug\net6.0\BasesPOO.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\bin\Debug\net6.0\BasesPOO.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\bin\Debug\net6.0\BasesPOO.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\bin\Debug\net6.0\BasesPOO.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\refint\BasesPOO.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\BasesPOO.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\BasesPOO\obj\Debug\net6.0\ref\BasesPOO.dll

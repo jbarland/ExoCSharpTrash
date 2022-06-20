@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\bin\Debug\net6.0\JeuPendu.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\bin\Debug\net6.0\JeuPendu.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\bin\Debug\net6.0\JeuPendu.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\bin\Debug\net6.0\JeuPendu.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\bin\Debug\net6.0\JeuPendu.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\refint\JeuPendu.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\JeuPendu.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\JeuPendu\obj\Debug\net6.0\ref\JeuPendu.dll

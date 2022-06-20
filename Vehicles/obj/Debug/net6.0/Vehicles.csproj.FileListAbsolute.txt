@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll

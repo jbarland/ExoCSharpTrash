@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\bin\Debug\net6.0\SignesZodiaque.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\bin\Debug\net6.0\SignesZodiaque.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\bin\Debug\net6.0\SignesZodiaque.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\bin\Debug\net6.0\SignesZodiaque.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\bin\Debug\net6.0\SignesZodiaque.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\refint\SignesZodiaque.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\SignesZodiaque.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\SignesZodiaque\obj\Debug\net6.0\ref\SignesZodiaque.dll

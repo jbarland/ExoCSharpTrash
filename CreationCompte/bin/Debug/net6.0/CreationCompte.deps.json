@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreationCompte/1.0.0": {
+        "dependencies": {
+          "Microsoft.Data.Sqlite.Core": "6.0.5",
+          "SQLitePCLRaw.bundle_winsqlite3": "2.1.0"
+        },
+        "runtime": {
+          "CreationCompte.dll": {}
+        }
+      },
+      "Microsoft.Data.Sqlite.Core/6.0.5": {
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Data.Sqlite.dll": {
+            "assemblyVersion": "6.0.5.0",
+            "fileVersion": "6.0.522.21804"
+          }
+        }
+      },
+      "SQLitePCLRaw.bundle_winsqlite3/2.1.0": {
+        "dependencies": {
+          "SQLitePCLRaw.provider.winsqlite3": "2.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.batteries_v2.dll": {
+            "assemblyVersion": "2.1.0.1603",
+            "fileVersion": "2.1.0.1603"
+          }
+        }
+      },
+      "SQLitePCLRaw.core/2.1.0": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {
+            "assemblyVersion": "2.1.0.1603",
+            "fileVersion": "2.1.0.1603"
+          }
+        }
+      },
+      "SQLitePCLRaw.provider.winsqlite3/2.1.0": {
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.winsqlite3.dll": {
+            "assemblyVersion": "2.1.0.1603",
+            "fileVersion": "2.1.0.1603"
+          }
+        }
+      },
+      "System.Memory/4.5.3": {}
+    }
+  },
+  "libraries": {
+    "CreationCompte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Data.Sqlite.Core/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NDvPAsJZSptFxB5B5t3a/7UUihO2nPm8nsEG3s2EtnccIotMsQqSkDdak/T/tWQUivzdiy1Q/0jXk97zQgD75Q==",
+      "path": "microsoft.data.sqlite.core/6.0.5",
+      "hashPath": "microsoft.data.sqlite.core.6.0.5.nupkg.sha512"
+    },
+    "SQLitePCLRaw.bundle_winsqlite3/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GsaiC7Zz0cwOEpVr1uO4/ftGC5D9s8+MMpcg+tP7BMHIvbukTDWftFvxYfqHlVp5heEO8Pdz1iBDcQds8pN1vg==",
+      "path": "sqlitepclraw.bundle_winsqlite3/2.1.0",
+      "hashPath": "sqlitepclraw.bundle_winsqlite3.2.1.0.nupkg.sha512"
+    },
+    "SQLitePCLRaw.core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6khRuPd6ScBUQzV9bti+OtwqwFsMMgJzibhvbgiAIFVQhrowFOCM/Zq0xm00+nVEgEfPwWEOLhYvxs/5j+zAcg==",
+      "path": "sqlitepclraw.core/2.1.0",
+      "hashPath": "sqlitepclraw.core.2.1.0.nupkg.sha512"
+    },
+    "SQLitePCLRaw.provider.winsqlite3/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ilFA6S5a7rFn+kGTekW/aeyjXFy5l1anMZAVAp0oWzsmSBiaXWoumheunOR3J7bDqMpv/5fojE+ze5tdLKY51Q==",
+      "path": "sqlitepclraw.provider.winsqlite3/2.1.0",
+      "hashPath": "sqlitepclraw.provider.winsqlite3.2.1.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    }
+  }
+}

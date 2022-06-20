@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\bin\Debug\net6.0\Boxes.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\bin\Debug\net6.0\Boxes.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\bin\Debug\net6.0\Boxes.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\bin\Debug\net6.0\Boxes.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\bin\Debug\net6.0\Boxes.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\refint\Boxes.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\Boxes.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\Boxes\obj\Debug\net6.0\ref\Boxes.dll

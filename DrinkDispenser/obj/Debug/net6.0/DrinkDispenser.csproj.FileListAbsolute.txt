@@ -1,0 +1,15 @@
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\bin\Debug\net6.0\DrinkDispenser.exe
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\bin\Debug\net6.0\DrinkDispenser.deps.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\bin\Debug\net6.0\DrinkDispenser.runtimeconfig.json
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\bin\Debug\net6.0\DrinkDispenser.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\bin\Debug\net6.0\DrinkDispenser.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.csproj.AssemblyReference.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.AssemblyInfoInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.AssemblyInfo.cs
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.csproj.CoreCompileInputs.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\refint\DrinkDispenser.dll
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.pdb
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\DrinkDispenser.genruntimeconfig.cache
+C:\Users\HB\Documents\Jérémy\POEI\C#\ExercicesCSharp\DrinkDispenser\obj\Debug\net6.0\ref\DrinkDispenser.dll
